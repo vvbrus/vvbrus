@@ -4,7 +4,7 @@
 
 I'm a Data Analyst:
 
-- 🏆 I’ve completed the Yandex Practicum course
+- 🏆 I’ve completed [Yandex Practicum course](https://github.com/vvbrus/ya_praktikum_da/blob/main/README.md)
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=Telegram&logoColor=white)](https://t.me/brusvv)
 
 ---
