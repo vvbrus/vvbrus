@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=vvbrus&style=for-the-badge&color=blue" alt=""/>
+</div>
+
 ### Hi there, I'm Vladimir Brus 👋
 I'm currently actively looking for a job and am open to offers.
 
@@ -49,6 +53,7 @@ Creating data visualizations to communicate insights to stakeholders
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
 
 ---
+
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=vvbrus&style=for-the-badge&color=blue" alt=""/>
+<a href="https://u8views.com/github/vvbrus"><img src="https://u8views.com/api/v1/github/profiles/169727011/views/day-week-month-total-count.svg"></a>
 </div>
