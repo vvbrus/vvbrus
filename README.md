@@ -52,8 +52,17 @@ Creating data visualizations to communicate insights to stakeholders
 |----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
 
----
+---  
 
 <div id="header" align="center">
 <a href="https://u8views.com/github/vvbrus"><img src="https://u8views.com/api/v1/github/profiles/169727011/views/day-week-month-total-count.svg"></a>
 </div>
+
+---  
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=lestatik">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=lestatik" alt="Data Card for Spotify">
+</a>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lestatik&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=lestatik&redirect=true)
+
+[![spotify-github-profile](https://data-card-for-spotify.herokuapp.com/api/card?user_id=12146253656&show_border=true)](https://data-card-for-spotify.herokuapp.com/api/card?user_id=12146253656&show_border=true)
