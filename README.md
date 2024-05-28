@@ -59,7 +59,3 @@ Creating data visualizations to communicate insights to stakeholders
 </div>
 
 ---  
-
-<a href="https://data-card-for-spotify.herokuapp.com/api/card?user_id=lestatik&show_border=true">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=lestatik" alt="Data Card for Spotify">
-</a>
